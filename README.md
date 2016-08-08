@@ -1,6 +1,6 @@
 # Processing Art
 
-Processing sketches I made during a Creative Code course
+[Processing](https://www.processing.org/download/) sketches I made during a Creative Code course
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ Processing sketches I made during a Creative Code course
 You only need:
 ```
 * Java 1.8
-* Processing, you can [download it here](https://www.processing.org/download/)
+* Processing Software
 ```
 
 ### Running it!
@@ -19,5 +19,11 @@ You only need:
 
 ## Sketches
 * **EllipseSketch**: A blue ellipse made with noise
+
+![EllipseSketch](https://raw.githubusercontent.com/martamedio/processing_art/master/Images/BlueEllipse.png)
 * **PacmanSketch**: Pacman accross the window made with an arc
+
+![PacmanSketch](https://raw.githubusercontent.com/martamedio/processing_art/master/Images/Pacman.png)
 * **SpinningPathSketch**: Spinning curved motion drawing path
+
+![SpinningPathSketch](https://raw.githubusercontent.com/martamedio/processing_art/master/Images/Spinning.png)
